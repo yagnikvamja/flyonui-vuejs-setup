@@ -1,4 +1,4 @@
-# FlyonUI + Vuejs Integration
+# [FlyonUI](https://flyonui.com/) + [Vuejs](https://vuejs.org/) Integration
 
 This template should help get you started developing with Vue 3 in Vite.
 
